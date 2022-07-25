@@ -1,16 +1,21 @@
-# currency_converter
+# 💲 Currency Converter Flutter App 🖩
 
-A new Flutter project.
+Aplicação Mobile em Flutter - Conversor de moedas utilizando HG Finance API.
 
-## Getting Started
+## ⚙️ Informações adicionais
 
-This project is a starting point for a Flutter application.
+- Flutter: v. 2.5.1
+- Dart: v. 2.14.2
+- HG Finance API
+- Fonte: Raleway Regular e Raleway Bold
+- HTTP: v. 0.13.4
 
-A few resources to get you started if this is your first Flutter project:
+## 🖼️ Imagens
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center">
+  <img width="200" alt="Imagem da aplicação" src="./flutter_01.jpeg">
+  <img width="200" alt="Imagem da aplicação" src="./flutter_02.jpeg">
+</div>
+<div align="center">
+  <img width="200" alt="Imagem da aplicação" src="./flutter_03.jpeg">
+  <img width="200" alt="Imagem da aplicação" src="./flutter_04.jpeg">
