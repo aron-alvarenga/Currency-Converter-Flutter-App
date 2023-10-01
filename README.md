@@ -10,12 +10,8 @@ Aplicação Mobile em Flutter - Conversor de moedas utilizando HG Finance API.
 - Fonte: Raleway Regular e Raleway Bold
 - HTTP: v. 0.13.4
 
-## 🖼️ Imagens
+## 🖼️ Imagem
 
 <div align="center">
   <img width="200" alt="Imagem da aplicação" src="./flutter_01.jpeg">
-  <img width="200" alt="Imagem da aplicação" src="./flutter_02.jpeg">
 </div>
-<div align="center">
-  <img width="200" alt="Imagem da aplicação" src="./flutter_03.jpeg">
-  <img width="200" alt="Imagem da aplicação" src="./flutter_04.jpeg">
